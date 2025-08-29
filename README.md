@@ -1,7 +1,7 @@
 # DEBIX SOM B i.MX 93 Core Board
 <br>
 <p align="center">
-<img  width=70% height=auto src="./DEBIX_SOM_B_1.png" alt="DEBIX SOM B(1)">
+<img  width=80% height=auto src="./Media_Assets/DEBIX_SOM_B_1.png" alt="DEBIX SOM B(1)">
 </p>
 
 ## Overview
@@ -16,7 +16,7 @@ FreeRTOS operating systems.
 
 <br>
 <p align="center">
-<img  width=100% height=auto src="./DEBIX_SOM_B_2.png" alt="DEBIX SOM B(2)">
+<img  width=100% height=auto src="./Media_Assets/DEBIX_SOM_B_2.png" alt="DEBIX SOM B(2)">
 </p>
 
 ## Specification
@@ -49,10 +49,10 @@ FreeRTOS operating systems.
 | Gross Weight        | 23g (±0.5g) |
 | Net Weight          | 11g (±0.5g) |
 
-## Certificates:
-<p align="left">
-<img src="./Certificates.png" alt="Certificates" width=70% height=auto>
-</p>
+## Product Compliance and Safety
+CE | FCC | UKCA | RoHS | RCM | PSE  
+*For more information see [the Certificates in the DEBIX Knowledge Center](https://debix.io/Document/certificates.html)*  
+
 
 ## Ordering Codes
 | RAM LPDDR4 | eMMC Storage | PN (-20°C~70°C) | PN (-40°C~85°C) |
@@ -101,7 +101,7 @@ professional.
 
 ## Contact Us
 - **Headquarters**: DEBIX Technology Inc., 8345 Gold River Ct., Las Vegas, NV 89113, USA  
-- **Factory**: 5-6/F., East Zone, Shunheda A2 Building, Liqxiandong Industrial Park, XiLi, Nanshan Dist., Shenzhen, China  <img src="../../../Discord_QRcode.png" alt="Discord(QRcode)" width=15% height=auto align="right">
+- **Factory**: 5-6/F., East Zone, Shunheda A2 Building, Liqxiandong Industrial Park, XiLi, Nanshan Dist., Shenzhen, China  <img src="./Media_Assets/Discord_QRcode.png" alt="Discord(QRcode)" width=15% height=auto align="right">
 - **Email**: info@debix.io  
 - **Website**: [www.debix.io](https://www.debix.io)  
 - **Community**: [Discord](https://discord.com/invite/adaHHaDkH2)
